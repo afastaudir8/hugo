@@ -1,4 +1,4 @@
-baseURL = 'https://symphonik.ca
+baseURL = 'https://symphonik.ca'
 locale = 'en-us'
 title = 'Symphonik Hugo instance'
 theme = 'ananke'
